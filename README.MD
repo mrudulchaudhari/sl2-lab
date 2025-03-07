@@ -8,8 +8,10 @@
 #### - will add more if data found
 
 ## Set up:
-### 1. Clone the repository - git clone https://github.com/mrudulchaudhari/sl2-lab.git
-### 2. Move to the directory - cd sl2-lab
+### 1. Clone the repository
+#### ```git clone https://github.com/mrudulchaudhari/sl2-lab.git```
+### 2. Move to the directory
+#### ```cd sl2-lab```
 ### 3. Set up virtual enviornment
 #### ```python -m venv venv```
 #### ```source venv/bin/activate  # On Windows: venv\Scripts\activate```
