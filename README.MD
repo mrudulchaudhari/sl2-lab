@@ -1,6 +1,7 @@
 # Segmentation of Blood cells using Neural Networks
 
-## The scope of this project is to learn on various blood cells sample. The model processes microscopic images of blood smears and segments different types of blood cells (RBCs, WBCs, and Platelets).
+### The scope of this project is to learn on various blood cells sample. The model processes microscopic images of blood smears and segments different types of blood cells (RBCs, WBCs, and Platelets).
+
 ## Use case:
 ### To identify if a patient has any of the blood related diseases like:
 #### Blood Cancer: leukemia, lymphoma, multiple myeloma
@@ -17,3 +18,9 @@
 #### ```source venv/bin/activate  # On Windows: venv\Scripts\activate```
 ### 4. Install dependencies
 #### ```pip install -r requirements.txt```
+
+
+## Contributors
+### 1. Mrudul Chaudhari [Github](https://github.com/mrudulchaudhari) [Linkedin](https://www.linkedin.com/in/mrudulchaudhari/)
+### 2. Himanshu Sinha [Github]() [Linkedin]()
+### 3. Adhishree Shiledar [Github](https://github.com/Adhishree21) [Linkedin](https://www.linkedin.com/in/adhishree-shiledar-11966b315/)
